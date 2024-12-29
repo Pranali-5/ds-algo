@@ -1,0 +1,1 @@
+In this approach, the code implements the merge sort algorithm recursively. It divides the array into halves until each part contains only one element, then merges them in sorted order. By repeatedly merging sorted subarrays, it constructs the final sorted array. This method ensures efficient sorting.
