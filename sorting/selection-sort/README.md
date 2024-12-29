@@ -1,0 +1,1 @@
+In this approach, the code implements selection sort by iterating through the array, finding the smallest element, and swapping it with the current element. Finally, it returns the sorted array.
