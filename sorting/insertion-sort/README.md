@@ -1,0 +1,1 @@
+In this approach, utilize the Insertion Sort algorithm to arrange elements in ascending order by repeatedly placing each element in its correct position among the already sorted elements. Finally, the sorted array is returned.
