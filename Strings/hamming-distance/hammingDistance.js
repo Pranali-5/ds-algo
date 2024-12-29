@@ -1,5 +1,5 @@
-// Time complexity = o(n)
-// Space Complexity = o(1)
+// Time complexity = O(n)
+// Space Complexity = O(1)
 
 function hammingDistance(a, b) {
   if (a.length !== b.length) {

@@ -1,6 +1,5 @@
-
-// Time complexity = o(n)
-// Space Complexity = o(n)
+// Time complexity = O(n)
+// Space Complexity = O(n)
 
 function isPalindromeBruteForce(str) {
     let reversed = str.split('').reverse().join('');
@@ -8,8 +7,8 @@ function isPalindromeBruteForce(str) {
 }
 
 
-// Time complexity = o(n)
-// Space Complexity = o(1)
+// Time complexity = O(n)
+// Space Complexity = O(1)
 function isPalindromeOptimal(str) {
   let left = 0;
   let right = str.length - 1;
