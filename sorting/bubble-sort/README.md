@@ -1,0 +1,1 @@
+The Bubble Sort in JavaScript is used by iterating through the array, comparing adjacent elements, and swapping them if they are in the wrong order. This process repeats until the array is fully sorted, with the sorted array returned at the end.
